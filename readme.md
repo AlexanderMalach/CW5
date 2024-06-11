@@ -17,7 +17,7 @@
 ## Установка
 
 1. **Клонируйте репозиторий:**
-   git clone https://github.com/yourusername/vacancy-analysis.git
+   git clone https://github.com/AlexanderMalach/CW5
    cd vacancy-analysis
 
 2. **Создайте виртуальное окружение и активируйте его:**
