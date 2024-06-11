@@ -42,10 +42,14 @@
 ### Запуск проекта:
 
 Для запуска проекта выполните:
-    ```python
-poetry run main  
+```sh
+poetry run main 
+
+или  
+
+```sh
 poetry run tkinter  
-    ```
+
 
 
 **Интерактивное взаимодействие с main.py:**
