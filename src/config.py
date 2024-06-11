@@ -8,7 +8,8 @@ def config(filename: str = "database.ini", section: str = "postgresql") -> Dict[
 
     :param filename: Имя конфигурационного файла. По умолчанию "database.ini".
     :type filename: str, optional
-    :param section: Название секции в конфигурационном файле, содержащей параметры подключения к базе данных. По умолчанию "postgresql".
+    :param section: Название секции в конфигурационном файле, содержащей параметры подключения к базе данных.
+    По умолчанию "postgresql".
     :type section: str, optional
     :return: Словарь с параметрами подключения к базе данных.
     :rtype: dict
