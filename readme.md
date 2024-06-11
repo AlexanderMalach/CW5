@@ -30,8 +30,11 @@
 4. **Настройте файл конфигурации database.ini:**
 
     host=localhost?
+
     user=your_db_user
+
     password=your_db_password
+
     port=5432  
 
 
