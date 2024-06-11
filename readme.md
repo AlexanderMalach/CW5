@@ -42,7 +42,7 @@
 ### Запуск проекта:
 
 Для запуска проекта выполните:
-    ```sh
+    ```python
 poetry run main  
 poetry run tkinter  
     ```
