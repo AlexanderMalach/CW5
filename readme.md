@@ -20,7 +20,7 @@
      https://github.com/AlexanderMalach/CW5
 
 2. **Создайте виртуальное окружение и активируйте его:**
-    poetry init
+    poetry init, 
 
     poetry install
 
