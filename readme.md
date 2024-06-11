@@ -17,8 +17,7 @@
 ## Установка
 
 1. **Клонируйте репозиторий:**
-   git clone https://github.com/AlexanderMalach/CW5
-   cd vacancy-analysis
+     https://github.com/AlexanderMalach/CW5
 
 2. **Создайте виртуальное окружение и активируйте его:**
     poetry install
