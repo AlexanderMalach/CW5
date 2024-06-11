@@ -49,7 +49,7 @@ def get_vacancies_list(data):
 
     :param data: Список словарей с информацией о вакансиях.
     :type data: list[dict]
-    :return: Список словарей с данными, подходящими для сохранения в базе данных.
+    :return: Список словарей с данными, подходящими для сохранения в БД.
     :rtype: list[dict]
     """
     vacancies = []
