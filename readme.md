@@ -28,11 +28,14 @@
     Убедитесь, что PostgreSQL установлен и работает. Создайте базу данных для проекта.
 
 4. **Настройте файл конфигурации database.ini:**
- [postgresql]
-    host=localhost
-    user=your_db_user
-    password=your_db_password
-    port=5432
+    host=localhost? 
+
+    user=your_db_user 
+
+    password=your_db_password  
+
+    port=5432  
+
 
 Использование
 Запуск проекта:
