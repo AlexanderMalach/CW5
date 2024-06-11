@@ -18,6 +18,7 @@
 
 1. **Клонируйте репозиторий:**
      https://github.com/AlexanderMalach/CW5
+    ssh: git@github.com:AlexanderMalach/CW5.git
 
 2. **Создайте виртуальное окружение и активируйте его:**
     poetry install
